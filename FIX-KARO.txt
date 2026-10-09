@@ -1,0 +1,21 @@
+🔧 RENDER 500 ERROR FIX — ye 2 files GitHub par upload karein
+
+STEP 1: Is zip ko extract karein. Isme 2 cheezein hain:
+   ├── templates/index.html   (website ka UI)
+   └── .python-version        (Python 3.13 pin)
+
+STEP 2: GitHub kholein → Jaip2001/pdf-toolbox
+   → "Add file" → "Upload files"
+
+STEP 3: Extract ki hui dono cheezein drag & drop karein:
+   → templates folder (index.html andar hona chahiye)
+   → .python-version file
+
+STEP 4: "Commit changes" dabayein
+
+STEP 5: Render → Deploys tab → naya deploy khud shuru hoga (2-3 min)
+
+STEP 6: https://pdf-toolbox-s9qu.onrender.com kholein → APP CHALNE LAGEGA! 🎉
+
+Verify karein: repo ke file list me "templates/" folder dikhe,
+ aur uske andar index.html hona chahiye.
